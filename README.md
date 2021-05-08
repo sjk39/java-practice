@@ -1,2 +1,2 @@
 # java-practice
-Java creations I have made.
+Java creations I have edited or made for practice.
